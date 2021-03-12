@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Daplabs-LLC.github.io/static/css/main.3c1f6abf.chunk.css",
+    "main.js": "/Daplabs-LLC.github.io/static/js/main.b87db185.chunk.js",
+    "main.js.map": "/Daplabs-LLC.github.io/static/js/main.b87db185.chunk.js.map",
+    "runtime-main.js": "/Daplabs-LLC.github.io/static/js/runtime-main.9fca185e.js",
+    "runtime-main.js.map": "/Daplabs-LLC.github.io/static/js/runtime-main.9fca185e.js.map",
+    "static/css/2.1f208231.chunk.css": "/Daplabs-LLC.github.io/static/css/2.1f208231.chunk.css",
+    "static/js/2.3891d167.chunk.js": "/Daplabs-LLC.github.io/static/js/2.3891d167.chunk.js",
+    "static/js/2.3891d167.chunk.js.map": "/Daplabs-LLC.github.io/static/js/2.3891d167.chunk.js.map",
+    "static/js/3.0b0abfb9.chunk.js": "/Daplabs-LLC.github.io/static/js/3.0b0abfb9.chunk.js",
+    "static/js/3.0b0abfb9.chunk.js.map": "/Daplabs-LLC.github.io/static/js/3.0b0abfb9.chunk.js.map",
+    "index.html": "/Daplabs-LLC.github.io/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/Daplabs-LLC.github.io/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.3c1f6abf.chunk.css.map": "/Daplabs-LLC.github.io/static/css/main.3c1f6abf.chunk.css.map",
+    "static/js/2.3891d167.chunk.js.LICENSE.txt": "/Daplabs-LLC.github.io/static/js/2.3891d167.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Daplabs-LLC.github.io/static/media/logo2.ed94fbb5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fca185e.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.3891d167.chunk.js",
+    "static/css/main.3c1f6abf.chunk.css",
+    "static/js/main.b87db185.chunk.js"
+  ]
+}
